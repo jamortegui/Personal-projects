@@ -5,7 +5,7 @@ Python scripts made with personal purposes
 Self made module with usefull functions for file management, also works as a personal notebook to remember my most used *os* and *shutil* functions.
 
 ### OrdenarArchivos:
-Scrip to classify all the files from a folder by predifined categories. 
+Scrip to classify all the files from a folder by predifined categories based of their type. 
 
 ### Stract links:
 Script to stract all links from a folder of a chrome bookmarks html file and save them to a txt file.
