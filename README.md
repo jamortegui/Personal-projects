@@ -12,3 +12,6 @@ Script to stract all links from a folder of a chrome bookmarks html file and sav
 
 ### Video organizer:
 Script that stracs frames from all the videos in a specified folder and shows them to the user so the user can decide the category of the video. Once the category is selected the video is moved to the corresponding folder.
+
+### Net test:
+Script to monitor if the PC is conected to internet. If the computer gets disconected the script plays an alarm to alert the user of this issue
